@@ -1,4 +1,4 @@
-## Static web page of the electronics store
+## Static web page of the tourist agency
 
 [Watch on Netlify](https://zingy-salmiakki-07fd94.netlify.app).
 
